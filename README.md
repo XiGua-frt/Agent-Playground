@@ -1,9 +1,6 @@
-# Simple Travel Agent
+💬 联系与支持
 
-基于 DeepSeek 和 Tavily 的 ReAct 模式智能体，能够查询天气并推荐景点。
+如果你觉得这个项目对你有帮助，欢迎关注我的微信公众号，获取更多 AI Agent 实战教程和最新资讯！
 
-## 🛠️ 快速开始
-
-1. **安装依赖**:
-   ```bash
-   pip install -r requirements.txt
+| 微信公众号 | 扫码关注 |
+Agent 实战录
