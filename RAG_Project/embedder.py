@@ -6,6 +6,7 @@ from langchain_community.embeddings import DashScopeEmbeddings
 from src.config.settings import settings
 
 
+
 class Embedder:
     """嵌入模型封装类"""
 
