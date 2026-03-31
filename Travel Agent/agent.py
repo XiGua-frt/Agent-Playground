@@ -2,6 +2,7 @@ import re
 from config import AGENT_SYSTEM_PROMPT
 from tools import available_tools
 
+
 class Agent:
     def __init__(self, llm_client):
         self.llm = llm_client
